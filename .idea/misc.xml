@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jzo2o-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-xxl-job/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-thirdparty/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-statemachine/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-shardingsphere-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-sentinel/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-seata/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-foundations/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-api/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-publics/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-canal-sync/pom.xml" />
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-mysql/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/jzo2o-framework/jzo2o-parent/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
